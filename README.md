@@ -31,4 +31,4 @@ istediğinizi tartışmak için bir konu açınız.
 
 [MIT](https://mit-license.org/)
 
-![Proje resmi](file:///C:/Users/Asus/Pictures/Screenshots/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(649).png)
+![Proje resmi](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/github.png)
