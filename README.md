@@ -1,14 +1,12 @@
 # Kodluyoruz İlk Repo
 
-Bu repo ==Kodluyoruz== Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet
+Bu repo **Kodluyoruz** Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet
 README dosyası, bir adet de index.html barındırıyor.
 
 ## Installation
 
-Öncelikle projeyi clonelayın. (https://github.com/uludagmert/kodluyoruzilkrepo.git)
-'
-git clone https://github.com/uludagmert/kodluyoruzilkrepo.git
-'
+Öncelikle projeyi clonelayın. 
+'git clone https://github.com/uludagmert/kodluyoruzilkrepo.git'
 
 ## Usage
 
